@@ -1,0 +1,16 @@
+/* styles.css */
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #FFFFFf;
+    background-color:#355C7D;
+    text-align:center;
+    font-size:80px;
+}
+
+p {
+    color:#355C7D;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    font-style:italic;
+}
